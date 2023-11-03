@@ -5,4 +5,4 @@ env: dev
 schema:
   enabled: true
   DB_TYPE: docdb
-PARAMETERS: user.dev.DOCUMENTDB,DOCUMENTDB user.dev.MONGO_URL,MONGO_URL user.dev.REDIS_HOST REDIS_HOST
+PARAMETERS: user.dev.DOCUMENTDB,DOCUMENTDB user.dev.MONGO_URL,MONGO_URL user.dev.REDIS_HOST,REDIS_HOST
